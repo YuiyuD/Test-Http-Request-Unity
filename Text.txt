@@ -14,17 +14,17 @@
     "isFollowSetting": false
   },
   {
-    "linkLogo": "https://i.imgur.com/ssAry94.jpg",
-    "linkGif": "https://i.imgur.com/FVLIgbq.gif",
-    "linkBanner": "https://i.imgur.com/1VXQry7.jpg",
-    "linkTraffic": "https://natsupy.itch.io/rhythmown",
-    "isFollowSetting": true
+    "linkLogo": "https://i.imgur.com/kscrODy.jpg",
+    "linkGif": "",
+    "linkBanner": "https://i.imgur.com/pQJZWfU.png",
+    "linkTraffic": "https://goo.gl/qP2DAe",
+    "isFollowSetting": false
   },
   {
-    "linkLogo": "https://i.imgur.com/ssAry94.jpg",
-    "linkGif": "https://i.imgur.com/FVLIgbq.gif",
-    "linkBanner": "https://i.imgur.com/1VXQry7.jpg",
-    "linkTraffic": "https://natsupy.itch.io/rhythmown",
-    "isFollowSetting": true
+    "linkLogo": "https://i.imgur.com/kscrODy.jpg",
+    "linkGif": "",
+    "linkBanner": "https://i.imgur.com/Ub0wBT1.jpg",
+    "linkTraffic": "https://goo.gl/PwBDXM",
+    "isFollowSetting": false
   }
 ]
