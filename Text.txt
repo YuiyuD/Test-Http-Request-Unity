@@ -1,8 +1,7 @@
 {
    "linkLogo":"Ref Rain - Aimer.natsupy",
    "linkGif":"natsupy",
-   "linkTraffic":"MDU7fjbpdi4",
-   "listFloat":[
+   "linkTraffic":[
       
    ]
 }
