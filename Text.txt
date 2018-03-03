@@ -1,7 +1,1 @@
-{
-   "linkLogo":"Ref Rain - Aimer.natsupy",
-   "linkGif":"natsupy",
-   "linkTraffic":[
-      
-   ]
-}
+[{"linkLogo":"rewrew","linkGif":"rewr","linkBanner":"rew","linkTraffic":"erew re"},{"linkLogo":"ewtfwe","linkGif":"rew","linkBanner":"rewf21 ","linkTraffic":"41 421"}]
