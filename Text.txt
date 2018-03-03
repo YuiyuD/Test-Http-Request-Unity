@@ -26,5 +26,12 @@
     "linkBanner": "https://i.imgur.com/Ub0wBT1.jpg",
     "linkTraffic": "https://goo.gl/PwBDXM",
     "isFollowSetting": false
+  },
+  {
+    "linkLogo": "https://i.imgur.com/kscrODy.jpg",
+    "linkGif": "https://i.imgur.com/9S8Ywqq.gif",
+    "linkBanner": "https://i.imgur.com/W0ge3so.png",
+    "linkTraffic": "https://goo.gl/pm5d9E",
+    "isFollowSetting": false
   }
 ]
