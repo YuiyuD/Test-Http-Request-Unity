@@ -1,1 +1,30 @@
-[{"linkLogo":"https://i.imgur.com/M3Kg8gM.jpg","linkGif":"https://i.imgur.com/ZmBCjw9.gif","linkBanner":"https://i.imgur.com/n6OkcJe.png","linkTraffic":"https://natsupy.itch.io/rhythmown","isFollowSetting":true},{"linkLogo":"https://i.imgur.com/ssAry94.jpg","linkGif":"https://i.imgur.com/FVLIgbq.gif","linkBanner":"https://i.imgur.com/1VXQry7.jpg","linkTraffic":"https://itch.io/game/summary/135909","isFollowSetting":false}]
+[
+  {
+    "linkLogo": "https://i.imgur.com/M3Kg8gM.jpg",
+    "linkGif": "https://i.imgur.com/ZmBCjw9.gif",
+    "linkBanner": "https://i.imgur.com/n6OkcJe.png",
+    "linkTraffic": "https://natsupy.itch.io/rhythmown",
+    "isFollowSetting": false
+  },
+  {
+    "linkLogo": "https://i.imgur.com/ssAry94.jpg",
+    "linkGif": "https://i.imgur.com/Oh1K0Tu.gif",
+    "linkBanner": "https://i.imgur.com/klqrrOP.png",
+    "linkTraffic": "https://natsupy.itch.io/rhythmown",
+    "isFollowSetting": false
+  },
+  {
+    "linkLogo": "https://i.imgur.com/ssAry94.jpg",
+    "linkGif": "https://i.imgur.com/FVLIgbq.gif",
+    "linkBanner": "https://i.imgur.com/1VXQry7.jpg",
+    "linkTraffic": "https://natsupy.itch.io/rhythmown",
+    "isFollowSetting": true
+  },
+  {
+    "linkLogo": "https://i.imgur.com/ssAry94.jpg",
+    "linkGif": "https://i.imgur.com/FVLIgbq.gif",
+    "linkBanner": "https://i.imgur.com/1VXQry7.jpg",
+    "linkTraffic": "https://natsupy.itch.io/rhythmown",
+    "isFollowSetting": true
+  }
+]
