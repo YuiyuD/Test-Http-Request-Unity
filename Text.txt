@@ -1,0 +1,10 @@
+{
+   "linkLogo":"Ref Rain - Aimer.natsupy",
+   "linkGif":"natsupy",
+   "linkTraffic":"MDU7fjbpdi4",
+   "listFloat":[
+      0.445454925,
+      0.0341583453, 
+      0.0
+   ]
+}
