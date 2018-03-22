@@ -17,7 +17,7 @@
     "linkLogo": "https://i.imgur.com/kscrODy.jpg",
     "linkGif": "",
     "linkBanner": "https://i.imgur.com/pQJZWfU.png",
-    "linkTraffic": "https://goo.gl/qP2DAe",
+    "linkTraffic": "https://goo.gl/qkd3ph",
     "isFollowSetting": false
   },
   {
