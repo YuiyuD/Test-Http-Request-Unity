@@ -17,7 +17,7 @@
     "linkLogo": "https://i.imgur.com/kscrODy.jpg",
     "linkGif": "",
     "linkBanner": "https://i.imgur.com/pQJZWfU.png",
-    "linkTraffic": "http://onelink.to/beachrestaurent",
+    "linkTraffic": "http://click.union.ucweb.com/index.php?service=RedirectService&pub=admin@saranghaes&offer_id=aliexpress.iosgp",
     "isFollowSetting": false
   },
   {
